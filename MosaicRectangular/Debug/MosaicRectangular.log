@@ -1,0 +1,4 @@
+﻿  MosaicRectangular.cpp
+c:\users\batyrkhan\documents\visual studio 2015\projects\mosaicrectangular\mosaicrectangular\mosaicrectangular.cpp(126): warning C4244: =: преобразование "double" в "uchar", возможна потеря данных
+opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "X86"
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" завершилась с кодом 1112.
